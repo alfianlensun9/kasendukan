@@ -1,0 +1,93 @@
+/* mod font-awesome */
+
+i.fa{
+	margin-left: 5px;
+	margin-right: 0px !important;
+}
+
+a.btn i.fa{
+	margin-left: 10px;
+	line-height: 35px;
+}
+
+/* end mod font awesome */
+
+.mt{
+	margin-top: 60px !important;
+}
+
+.btn{
+    border-radius: 30px;
+}
+
+.header-contact{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.header{
+	background-color: #fff;	
+	padding-top: 15px;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 15px;
+}
+
+.header .left .title-header {
+	height: 50px;
+}
+
+.header-contact .notelp{
+    padding-right: 10px;
+}
+
+.sticky-nav{
+	width: 100%;
+	position: fixed;
+	top: 0;
+}
+
+.navbar{
+    font-weight: bold;	
+    z-index: 2;
+}	
+
+.navbar-content{
+	border-radius: 5px;
+	left: 2% !important;
+	width: 96% !important;
+	font-weight: 500;
+	background-color: #fff;
+}
+
+.navbar-content p{
+	color: #555 !important;
+	line-height: 24px;
+}
+
+.navbar-content .det{
+	padding-left: 5% !important;
+}
+
+.navbar-content h5{
+	font-weight: bold;
+}
+
+.navbar-content h6{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+
+.navbar-content ul li, .navbar-content ul li a{
+	border-radius: 30px;
+	color: #555 !important;
+	margin: 0 !important;
+}
+
+.navbar-content ul li:hover, .navbar-content ul li a:hover{
+	background-color: #eee;
+	border-radius: 30px;
+	width: 100%;
+}
+
